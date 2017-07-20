@@ -1,0 +1,33 @@
+
+˜
+xlsc_goods_goods_conf.proto
+xlsc.goods"ê
+
+GOODS_CONF
+
+id (
+name (	
+
+short_name (	6
+Test (2(.xlsc.goods.GOODS_CONF.InternalType_Test
+resource (
+type (
+up_shelves_time (
+off_shelves_time (
+
+sex_detail	 (
+is_time_limit
+ (:0
+smallIconType (
+smallIconName (	Ï
+InternalType_Test
+	is_plural (:0L
+Testdd (2<.xlsc.goods.GOODS_CONF.InternalType_Test.InternalType_Testdd
+desc (	
+color (:0
+	desc_list (@
+InternalType_Testdd
+max_plural_num (:0
+rarity ("9
+GOODS_CONF_ARRAY%
+items (2.xlsc.goods.GOODS_CONF

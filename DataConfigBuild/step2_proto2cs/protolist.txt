@@ -1,0 +1,2 @@
+xlsc_goods_goods_conf.proto
+xlsc_ttest_test.proto
